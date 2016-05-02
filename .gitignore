@@ -1,0 +1,7 @@
+node_modules/
+web/
+.sass-cache/
+.idea/
+src/assets/css/
+*.css
+*.css.map
